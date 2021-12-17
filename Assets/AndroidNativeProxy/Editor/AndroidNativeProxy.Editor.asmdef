@@ -1,0 +1,16 @@
+{
+    "name": "AndroidNativeProxy.Editor",
+    "references": [
+        "GUID:84ffd2ae0c425e941964896fa1a44407"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
