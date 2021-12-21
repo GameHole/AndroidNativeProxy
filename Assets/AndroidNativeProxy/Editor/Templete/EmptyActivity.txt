@@ -1,6 +1,7 @@
 package com.ad.nativeview;
 
 import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 
@@ -19,7 +20,7 @@ public class EmptyActivity extends Activity
             call.onCreate(this);
         }
     }
-    public static void New(Activity owener,IOnActivityCreated onCreate){
+    public static void New(Activity owener, IOnActivityCreated onCreate){
         call=onCreate;
         owener.startActivity(new Intent(owener,EmptyActivity.class));
     }
