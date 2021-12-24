@@ -2,7 +2,7 @@
   "name": "com.enred.androidnativehelper",
   "displayName": "AndroidNativeHelper",
   "description": "安卓原生辅助",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2018.3",
   "license": "MIT",
   "dependencies": {
